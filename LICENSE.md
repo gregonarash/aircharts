@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Airtable
+Copyright (c) 2020 gregonarash
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction,
