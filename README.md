@@ -1,4 +1,4 @@
-# Simple chart block
+# AirCharts chart generator
 
 This example blocks shows a bar chart of data from a table.
 
@@ -10,6 +10,10 @@ The code shows:
 
 ## How to run this block
 
+
+https://airtable.com/shrQ8Oet8v4cFFj0D
+
+
 1. Create a new base using the
    [Sales CRM template](https://airtable.com/templates/sales-and-customers/expvjTzYAZareV1pt/sales-crm).
 
@@ -17,8 +21,8 @@ The code shows:
    [Create a new block](https://airtable.com/developers/blocks/guides/hello-world-tutorial#create-a-new-block),
    selecting "Simple chart" as your template.
 
-3. From the root of your new block, run `block run`.
+
 
 ## See the block running
 
-![Block updating chart as the user changes data](media/block.gif)
+![Block updating chart as the user changes data](media/chart (1).png)
