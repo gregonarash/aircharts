@@ -1,28 +1,16 @@
 # AirCharts chart generator
 
-This example blocks shows a bar chart of data from a table.
+This block generats charts in form of image or link, that can be shared with outside parties. 
 
-The code shows:
+Charts are generated using quickchart.io library.
 
--   How to use the Chart.js external library.
-
--   How to store block-related data using `globalConfig` and `Synced` UI components.
-
-## How to run this block
-
+## Example base:
 
 https://airtable.com/shrQ8Oet8v4cFFj0D
 
 
-1. Create a new base using the
-   [Sales CRM template](https://airtable.com/templates/sales-and-customers/expvjTzYAZareV1pt/sales-crm).
+## View of table with charts being generated
+![link](media/Generated%20charts.JPG)
 
-2. Create a new block in your new base (see
-   [Create a new block](https://airtable.com/developers/blocks/guides/hello-world-tutorial#create-a-new-block),
-   selecting "Simple chart" as your template.
-
-
-
-## See the block running
-
-![Block updating chart as the user changes data](media/chart (1).png)
+## Example of chart data:
+![link](media/Chart%20data.JPG)
