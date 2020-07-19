@@ -15,6 +15,9 @@ https://airtable.com/shrQ8Oet8v4cFFj0D
 ## Example of chart data:
 ![link](media/Chart%20data.JPG)
 
+## A short demo of the features:
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/b72-UhEvCpU/0.jpg)](http://www.youtube.com/watch?v=b72-UhEvCpU "AirCharts make sharable charts in Airtable")
+
 ## How to remix this block
 
 1. Create a new base (or you can use an existing base).
