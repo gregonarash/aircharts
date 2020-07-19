@@ -1,4 +1,4 @@
-# AirCharts chart generator by Business-Automated.com
+# AirCharts chart generator by [Business-Automated.com](http://www.business-automated.com)
 
 This block generats charts in form of image or link, that can be shared with outside parties. 
 
